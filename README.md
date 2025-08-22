@@ -15,8 +15,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
 ## Capability-based Security
 
   * [Zooko's triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle) is a trilemma of three properties that some people consider desirable for names of participants in a network protocol: global, secure, and memorable. Zooko conjectured that no single kind of name can achieve more than two.
-  * [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) by the W3C TAG (Technical Architecture Group) give an introduction, examples, potential issues and recommendations when handling capability URLs.
-    * [Short chapter on Tahoe-LAFS](https://w3ctag.github.io/capability-urls/#tahoe-lafs)
+  * [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) by the W3C TAG (Technical Architecture Group) give an introduction, examples, potential issues and recommendations when handling capability URLs.  Includes a [short chapter on Tahoe-LAFS](https://w3ctag.github.io/capability-urls/#tahoe-lafs).
   * [Christine Lemmer-Webber, 2018: Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.pdf) Petname systems try to fulfil all three desirable properties.
   * [Marc Stiegler, 2005: An Introduction to Petname Systems](http://www.skyhunter.com/marcs/petnames/IntroPetNames.html)
   * [ERights.org](http://www.erights.org/) E is an object-capability programming language and platform for writing distributed, secure, and robust software.

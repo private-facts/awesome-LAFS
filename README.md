@@ -28,12 +28,16 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
 
 ### Capability-based security implementations
 
+  * [Cap’n Proto](https://capnproto.org/rpc.html) Cap’n Proto is a data interchange format. Its RPC Protocol is based on capabilities.
+
   * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/): practical capabilities for UNIX
     * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is in the main branch
     * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
   * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant"
     * [Wikipedia: Fuchsia (operating system)](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))
-  * [Redox](https://www.redox-os.org/) namespaces are inspired by Capsicum [](https://nlnet.nl/project/Capability-based-RedoxOS/)
+  * [Redox](https://www.redox-os.org/) namespaces are inspired by Capsicum
+    * Current (2025) [NLNET grant to replace Redox's internal file descriptor representation with capability descriptors](https://nlnet.nl/project/Capability-based-RedoxOS/)
+
   * [WASI](https://wasi.dev/) The WebAssembly System Interface (WASI) is an ABI for [Web Assembly (WASM)](https://www.w3.org/TR/wasm-core-2/)
     * [Lin Clark: WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/) Employing capability-based security for robust sandboxing.
     * [Talk: Ed Schouten, 32C3 (2015): CloudABI - Pure capability-based security for UNIX](https://media.ccc.de/v/32c3-7231-cloudabi) CloudABI is a predecessor of WASI.

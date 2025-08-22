@@ -14,7 +14,8 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
 
 ## Capability-based Security
 
-  * [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) by the W3C TAG (Technical Architecture Group) has a [chapter on Tahoe-LAFS](https://w3ctag.github.io/capability-urls/#tahoe-lafs)
+  * [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) by the W3C TAG (Technical Architecture Group) give an introduction, examples, potential issues and recommendations when handling capability URLs.
+    * [Short chapter on Tahoe-LAFS](https://w3ctag.github.io/capability-urls/#tahoe-lafs)
     
 ## Forward Error Correction (FEC) / Erasure Coding
 

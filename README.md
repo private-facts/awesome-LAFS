@@ -38,4 +38,4 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
 
   * [Magic Folder](https://github.com/tahoe-lafs/magic-folder) syncs local folders to a Tahoe-LAFS grid.
     * The [Magic Folder Data Model](https://magic-folder.readthedocs.io/en/latest/datamodel.html) allows multiple writers.
-  * [Rclone](https://rclone.org/) syncs and mounts [over 70 cloud storage protocols](https://rclone.org/#providers).
+  * [Rclone](https://rclone.org/) syncs and mounts [over 70 cloud storage protocols](https://rclone.org/#providers). (Tahoe-LAFS support via its [SFTP frontend](https://tahoe-lafs.org/trac/tahoe-lafs/wiki/SftpFrontend))

@@ -30,6 +30,9 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
 ## Secure network transfer
 
   * [Twisted](https://twisted.org/) An event-driven networking engine.  Tahoe-LAFS relies heavily on Twisted.
+  * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) transfers data and files securely between two computers.
+  * [FOWL](https://github.com/meejah/fowl) Get TCP streams from one computer to another, safely.
+  * [iroh](https://iroh.computer/) Iroh is a library for building on direct connections between devices.
 
 ## Tools that work with Tahoe-LAFS
 

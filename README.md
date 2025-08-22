@@ -25,6 +25,18 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
   * [Mark Samuel Miller: Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control](http://erights.org/talks/thesis/markm-thesis.pdf)
   * [Wikipedia: The Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
   * [Wikipedia: The Principle of Least Authority (PoLA)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+
+### Capability-based security implementations
+
+  * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/): practical capabilities for UNIX
+    * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is in the main branch
+    * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
+  * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant" 
+    * [Wikipedia: Fuchsia (operating system)](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))
+  * [Redox](https://www.redox-os.org/) namespaces are inspired by Capsicum [](https://nlnet.nl/project/Capability-based-RedoxOS/)
+  * [WASI](https://wasi.dev/) The WebAssembly System Interface (WASI) is an ABI for [Web Assembly (WASM)](https://www.w3.org/TR/wasm-core-2/)
+    * [Lin Clark: WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/) Employing capability-based security for robust sandboxing.
+    * [Talk: Ed Schouten, 32C3 (2015): CloudABI - Pure capability-based security for UNIX](https://media.ccc.de/v/32c3-7231-cloudabi) CloudABI is a predecessor of WASI.
     
 ## Forward Error Correction (FEC) / Erasure Coding
 

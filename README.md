@@ -31,7 +31,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome) for more
   * [Cap’n Proto](https://capnproto.org/rpc.html) Cap’n Proto is a data interchange format. Its RPC Protocol is based on capabilities.
 
   * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/): practical capabilities for UNIX
-    * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is in the main branch
+    * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is part of FreeBSD's main branch
     * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
   * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant"
     * [Wikipedia: Fuchsia (operating system)](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))

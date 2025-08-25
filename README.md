@@ -25,7 +25,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
   * [Wikipedia: The Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
   * [Wikipedia: The Principle of Least Authority (PoLA)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
 
-### Capability-based security implementations
+### Implementations
 
   * [Cap’n Proto](https://capnproto.org/rpc.html) Cap’n Proto is a data interchange format. Its RPC Protocol is based on capabilities.
 

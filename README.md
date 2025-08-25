@@ -6,12 +6,6 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
 *Contributions welcome!*
 
 
-## Distributed Storage
-
-  * [Tahoe-LAFS](https://www.tahoe-lafs.org/)
-  * [Sia](https://sia.tech/)
-  * [IPFS](https://ipfs.tech/) "store NFTs" 😹
-
 ## Capability-based Security
 
   * [Zooko's triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle) is a trilemma of three properties that some people consider desirable for names of participants in a network protocol: global, secure, and memorable. Zooko conjectured that no single kind of name can achieve more than two.
@@ -55,6 +49,12 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
   * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) transfers data and files securely between two computers.
   * [FOWL](https://github.com/meejah/fowl) Get TCP streams from one computer to another, safely.
   * [iroh](https://iroh.computer/) Iroh is a library for building on direct connections between devices.
+
+## Distributed Storage
+
+  * [Tahoe-LAFS](https://www.tahoe-lafs.org/)
+  * [Sia](https://sia.tech/)
+  * [IPFS](https://ipfs.tech/) "store NFTs" 😹
 
 ## Tools that work with Tahoe-LAFS
 

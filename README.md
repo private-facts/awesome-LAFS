@@ -32,7 +32,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
   * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/) Practical capabilities for UNIX.
     * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is part of FreeBSD's main branch.
     * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
-  * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant" ([Wikipedia: Fuchsia (operating system)](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))).
+  * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant" ([Wikipedia on Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))).
   * [Redox](https://www.redox-os.org/) namespaces are inspired by Capsicum.
 
   * [WASI](https://wasi.dev/) The WebAssembly System Interface (WASI) is an ABI for [Web Assembly (WASM)](https://www.w3.org/TR/wasm-core-2/).

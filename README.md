@@ -21,7 +21,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
 
 ### Implementations
 
-  * [Cap’n Proto](https://capnproto.org/rpc.html) Data interchange format with RPC protocol based on capabilities.
+  * [Cap’n Proto](https://capnproto.org/rpc.html) Data interchange format with a capablity-based RPC protocol.
 
   * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/) Practical capabilities for UNIX.
     * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is part of FreeBSD's main branch.

@@ -27,7 +27,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
     * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is part of FreeBSD's main branch.
     * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
   * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant" ([Wikipedia on Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))).
-  * [Redox](https://www.redox-os.org/) namespaces are inspired by Capsicum.
+  * [Redox](https://www.redox-os.org/) Unix-like general-purpose microkernel-based operating system written in Rust.  Its namespaces functionality is inspired by Capsicum.
 
   * [WASI](https://wasi.dev/) The WebAssembly System Interface (WASI) is an ABI for [Web Assembly (WASM)](https://www.w3.org/TR/wasm-core-2/).
     * [Lin Clark: WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/) Employing capability-based security for robust sandboxing.

@@ -18,6 +18,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
   * [Mark Samuel Miller: Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control](http://erights.org/talks/thesis/markm-thesis.pdf)
   * [Wikipedia: The Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
   * [Wikipedia: The Principle of Least Authority (PoLA)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+  * [UCAN](https://github.com/ucan-wg/) (User Controlled Authorization Network) is a trustless, secure, local-first, user-originated authorization and revocation scheme.
 
 ### Implementations
 

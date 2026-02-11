@@ -8,17 +8,27 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
 
 ## Capability-based Security
 
-  * [Zooko's triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle) is a trilemma of three properties that some people consider desirable for names of participants in a network protocol: global, secure, and memorable. Zooko conjectured that no single kind of name can achieve more than two.
-  * [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) by the W3C TAG (Technical Architecture Group) gives an introduction, examples, potential issues and recommendations when handling capability URLs.  It includes a [short chapter on Tahoe-LAFS](https://w3ctag.github.io/capability-urls/#tahoe-lafs).
   * [Christine Lemmer-Webber, 2018: Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.pdf) Petname systems try to fulfil all three desirable properties.
-  * [Marc Stiegler, 2005: An Introduction to Petname Systems](http://www.skyhunter.com/marcs/petnames/IntroPetNames.html)
+
   * [ERights.org](http://www.erights.org/) E is an object-capability programming language and platform for writing distributed, secure, and robust software.
+
+  * [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) by the W3C TAG (Technical Architecture Group) gives an introduction, examples, potential issues and recommendations when handling capability URLs.  It includes a [short chapter on Tahoe-LAFS](https://w3ctag.github.io/capability-urls/#tahoe-lafs).
     * [Lecture: Mark S. Miller, Immunity from Viruses, Safety from Geeks Bearing Gifts (May 9, 2002)](https://www.youtube.com/watch?v=KoM_aCuFk1w)
-  * [Miller, Yee, Shapiro 2003: Capability Myths Demolished](https://srl.cs.jhu.edu/pubs/SRL2003-02.pdf)
+
+  * [Marc Stiegler, 2005: An Introduction to Petname Systems](http://www.skyhunter.com/marcs/petnames/IntroPetNames.html)
+
   * [Mark Samuel Miller: Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control](http://erights.org/talks/thesis/markm-thesis.pdf)
-  * [Wikipedia: The Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
-  * [Wikipedia: The Principle of Least Authority (PoLA)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+
+  * [Miller, Yee, Shapiro 2003: Capability Myths Demolished](https://srl.cs.jhu.edu/pubs/SRL2003-02.pdf)
+
   * [UCAN](https://github.com/ucan-wg/) (User Controlled Authorization Network) is a trustless, secure, local-first, user-originated authorization and revocation scheme.
+
+  * [Wikipedia: The Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
+
+  * [Wikipedia: The Principle of Least Authority (PoLA)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+
+  * [Zooko's triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle) is a trilemma of three properties that some people consider desirable for names of participants in a network protocol: global, secure, and memorable. Zooko conjectured that no single kind of name can achieve more than two.
+
 
 ### Implementations
 
@@ -39,31 +49,43 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
     * [Lin Clark: WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/) Employing capability-based security for robust sandboxing.
     * [Talk: Ed Schouten, 32C3 (2015): CloudABI - Pure capability-based security for UNIX](https://media.ccc.de/v/32c3-7231-cloudabi) CloudABI is a predecessor of WASI.
 
+
 ## Forward Error Correction (FEC) / Erasure Coding
 
   * [ZFEC on GitHub](https://github.com/tahoe-lafs/zfec/) efficient, portable erasure coding tool
   * [ZFEX on GitHub](https://github.com/WojciechMigda/zfex/) a fork to utilize SIMD instructions ([benchmarks](https://github.com/WojciechMigda/zfex/blob/main/bench/Results.rst))
+
   * [FECpp](https://www.randombit.net/code/fecpp/) and accompanying [blog post](https://randombit.net/bitbashing/posts/forward_error_correction_using_simd.html) introduce using SSE2 to optimize the GF(2⁸) multiplications and implements a bitwise-compatible algorithm to zfex.
+
 
 ## (Client-Side) Encryption
 
   * ...
 
+
 ## Secure network transfer
 
   * [Twisted](https://twisted.org/) An event-driven networking engine.  Tahoe-LAFS relies heavily on Twisted.
+
   * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) transfers data and files securely between two computers.
+
   * [FOWL](https://github.com/meejah/fowl) Get TCP streams from one computer to another, safely.
+
   * [iroh](https://iroh.computer/) Iroh is a library for building on direct connections between devices.
+
 
 ## Distributed Storage
 
   * [Tahoe-LAFS](https://www.tahoe-lafs.org/)
+
   * [Sia](https://sia.tech/)
+
   * [IPFS](https://ipfs.tech/) "store NFTs" 😹
+
 
 ## Tools that work with Tahoe-LAFS
 
   * [Magic Folder](https://github.com/tahoe-lafs/magic-folder) syncs local folders to a Tahoe-LAFS grid.
     * The [Magic Folder Data Model](https://magic-folder.readthedocs.io/en/latest/datamodel.html) allows multiple writers.
+
   * [Rclone](https://rclone.org/) syncs and mounts [over 70 cloud storage protocols](https://rclone.org/#providers). (Tahoe-LAFS support via its [SFTP frontend](https://tahoe-lafs.org/trac/tahoe-lafs/wiki/SftpFrontend))

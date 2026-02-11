@@ -27,6 +27,7 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
   * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/) Practical capabilities for UNIX.
     * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is part of FreeBSD's main branch.
     * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
+  * [CHERI](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/) (Capability Hardware Enhanced RISC Instructions) extends conventional processor Instruction-Set Architectures (ISAs) with architectural capabilities to enable fine-grained memory protection and highly scalable software compartmentalization.
 
   * [Fil-C](https://fil-c.org/) is "a memory safe implementation of the C and C++ programming languages you already know and love".  It uses [InvisiCaps](https://fil-c.org/invisicaps), a capability system for pointers.
 

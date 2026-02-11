@@ -27,6 +27,9 @@ See the [Awesome Lists GitHub topic](https://github.com/topics/awesome-list) for
   * [Capsicum](https://www.cl.cam.ac.uk/research/security/capsicum/) Practical capabilities for UNIX.
     * [Capsicum in FreeBSD](https://wiki.freebsd.org/Capsicum) is part of FreeBSD's main branch.
     * [Talk@BSDCan2014: Andrea Ross: Capsicum and Casper - more than a lipstick on a pig](https://www.youtube.com/watch?v=0la06FHbdvg)
+
+  * [Fil-C](https://fil-c.org/) is "a memory safe implementation of the C and C++ programming languages you already know and love".  It uses [InvisiCaps](https://fil-c.org/invisicaps), a capability system for pointers.
+
   * [Fuchsia](https://fuchsia.dev/) is Google's capability-based "modern open source operating system that's simple, secure, updatable, and performant" ([Wikipedia on Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))).
   * [Redox](https://www.redox-os.org/) Unix-like general-purpose microkernel-based operating system written in Rust.  Its namespaces functionality is inspired by Capsicum.
 
